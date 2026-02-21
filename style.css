@@ -34,12 +34,14 @@
             color: rgb(236, 80, 80);
             padding: 10px;
             border-radius: 10px;
+            
+
         }
-        a:hover{
+        /* a:hover{
             color: rgb(231, 176, 176);
             background-color: blueviolet;
             padding: 10px;
-        }
+        } */
         a:active{
              color: rgb(236, 80, 80);
              background-color: rgb(69, 61, 50,0.0);
