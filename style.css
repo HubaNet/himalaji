@@ -40,6 +40,10 @@
             background-color: blueviolet;
             padding: 10px;
         }
+        a:active{
+             color: rgb(236, 80, 80);
+             background-color: rgb(69, 61, 50,0.0);
+        }
 
         /* izvele pec ID selektora */
         #lokacijas-noformejums{
